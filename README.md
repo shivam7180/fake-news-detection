@@ -1,4 +1,4 @@
-#Fake News Detection System
+# Fake News Detection System
 
 An Intelligent Machine Learning Solution for Information Integrity
 

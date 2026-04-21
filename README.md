@@ -1,4 +1,5 @@
 #Fake News Detection System
+
 An Intelligent Machine Learning Solution for Information Integrity
 
 In an era of rapid digital information exchange, the ability to distinguish between credible journalism and misinformation is critical. This project implements a robust Natural Language Processing (NLP) pipeline and a Machine Learning classifier designed to automatically detect and flag deceptive news articles with high precision.
